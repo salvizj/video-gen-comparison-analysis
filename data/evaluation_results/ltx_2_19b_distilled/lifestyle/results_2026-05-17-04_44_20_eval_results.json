@@ -1,0 +1,187 @@
+{
+    "aesthetic_quality": [
+        0.5718719628122118,
+        [
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_short_15s.mp4",
+                "video_results": 0.6092857718467712
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_long_10s.mp4",
+                "video_results": 0.6357499361038208
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_short_5s.mp4",
+                "video_results": 0.600739061832428
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_long_5s.mp4",
+                "video_results": 0.6964741349220276
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_long_10s.mp4",
+                "video_results": 0.567488968372345
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_medium_15s.mp4",
+                "video_results": 0.5695432424545288
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_long_15s.mp4",
+                "video_results": 0.5815227627754211
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_medium_10s.mp4",
+                "video_results": 0.6281769871711731
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_medium_15s.mp4",
+                "video_results": 0.5775174498558044
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_medium_5s.mp4",
+                "video_results": 0.6023927927017212
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_long_15s.mp4",
+                "video_results": 0.5442418456077576
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_short_5s.mp4",
+                "video_results": 0.6068693399429321
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_long_5s.mp4",
+                "video_results": 0.5260140895843506
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_short_15s.mp4",
+                "video_results": 0.6459962725639343
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_medium_10s.mp4",
+                "video_results": 0.5779606699943542
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_short_10s.mp4",
+                "video_results": 0.6389782428741455
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_short_10s.mp4",
+                "video_results": 0.560552716255188
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_long_5s.mp4",
+                "video_results": 0.45944663882255554
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_medium_5s.mp4",
+                "video_results": 0.578198254108429
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_long_10s.mp4",
+                "video_results": 0.5747783780097961
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_short_15s.mp4",
+                "video_results": 0.5442361831665039
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_medium_10s.mp4",
+                "video_results": 0.6119953393936157
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_5_short_5s.mp4",
+                "video_results": 0.5839273929595947
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_medium_15s.mp4",
+                "video_results": 0.6025286912918091
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_medium_5s.mp4",
+                "video_results": 0.49066242575645447
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_short_10s.mp4",
+                "video_results": 0.5244057774543762
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_1_long_15s.mp4",
+                "video_results": 0.6679818034172058
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_short_10s.mp4",
+                "video_results": 0.5719817280769348
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_short_15s.mp4",
+                "video_results": 0.5503435730934143
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_short_5s.mp4",
+                "video_results": 0.5768261551856995
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_long_5s.mp4",
+                "video_results": 0.5804859399795532
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_medium_15s.mp4",
+                "video_results": 0.5126989483833313
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_long_10s.mp4",
+                "video_results": 0.5307132601737976
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_2_long_15s.mp4",
+                "video_results": 0.5300983786582947
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_long_5s.mp4",
+                "video_results": 0.5042242407798767
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_long_15s.mp4",
+                "video_results": 0.5686991214752197
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_medium_15s.mp4",
+                "video_results": 0.5736627578735352
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_medium_10s.mp4",
+                "video_results": 0.6033636927604675
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_medium_5s.mp4",
+                "video_results": 0.5524112582206726
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_medium_5s.mp4",
+                "video_results": 0.5212283730506897
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_medium_10s.mp4",
+                "video_results": 0.46070411801338196
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_short_10s.mp4",
+                "video_results": 0.5776265263557434
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_short_5s.mp4",
+                "video_results": 0.6046724915504456
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_4_long_10s.mp4",
+                "video_results": 0.4974728524684906
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/lifestyle/ltx_2_19b_distilled_lifestyle_3_short_15s.mp4",
+                "video_results": 0.6093597412109375
+            }
+        ]
+    ]
+}

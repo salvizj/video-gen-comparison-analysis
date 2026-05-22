@@ -1,0 +1,187 @@
+{
+    "imaging_quality": [
+        0.48950172181088425,
+        [
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_short_15s.mp4",
+                "video_results": 40.14720675819799
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_long_15s.mp4",
+                "video_results": 71.56912740776083
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_long_5s.mp4",
+                "video_results": 40.95297531254035
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_long_5s.mp4",
+                "video_results": 69.27704138007046
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_short_15s.mp4",
+                "video_results": 32.38236651328132
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_long_5s.mp4",
+                "video_results": 42.72856546827584
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_medium_10s.mp4",
+                "video_results": 45.721165130741866
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_medium_15s.mp4",
+                "video_results": 40.93538779895391
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_short_10s.mp4",
+                "video_results": 45.3157573082635
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_medium_5s.mp4",
+                "video_results": 66.72622396926249
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_short_5s.mp4",
+                "video_results": 62.22019636926572
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_short_10s.mp4",
+                "video_results": 23.58554801307773
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_medium_5s.mp4",
+                "video_results": 55.76049410607204
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_long_10s.mp4",
+                "video_results": 75.27024784325565
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_long_5s.mp4",
+                "video_results": 73.91243056620448
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_medium_15s.mp4",
+                "video_results": 40.61801719665527
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_long_10s.mp4",
+                "video_results": 52.340099920375714
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_medium_10s.mp4",
+                "video_results": 68.87945968184728
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_short_15s.mp4",
+                "video_results": 53.21110001033033
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_medium_5s.mp4",
+                "video_results": 68.46055707064542
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_long_15s.mp4",
+                "video_results": 54.58896329462363
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_1_short_5s.mp4",
+                "video_results": 75.66027724841409
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_short_5s.mp4",
+                "video_results": 23.752924800904328
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_medium_15s.mp4",
+                "video_results": 66.35444770031029
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_medium_10s.mp4",
+                "video_results": 42.99034992392132
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_medium_15s.mp4",
+                "video_results": 31.729178721884942
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_short_15s.mp4",
+                "video_results": 60.18563475040848
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_short_10s.mp4",
+                "video_results": 49.500098533155516
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_2_short_5s.mp4",
+                "video_results": 37.002129515340506
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_long_15s.mp4",
+                "video_results": 34.04817436408468
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_long_5s.mp4",
+                "video_results": 59.421466449075496
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_medium_5s.mp4",
+                "video_results": 52.14370446953892
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_short_10s.mp4",
+                "video_results": 29.759814258432982
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_short_15s.mp4",
+                "video_results": 32.49078605313711
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_short_10s.mp4",
+                "video_results": 27.80305655863275
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_medium_15s.mp4",
+                "video_results": 35.39041701974631
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_long_10s.mp4",
+                "video_results": 47.74253514396699
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_long_15s.mp4",
+                "video_results": 39.61515710888807
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_long_10s.mp4",
+                "video_results": 29.489510619294098
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_short_5s.mp4",
+                "video_results": 65.14256636564397
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_3_medium_10s.mp4",
+                "video_results": 30.622543944362782
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_4_medium_5s.mp4",
+                "video_results": 42.95925316928832
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_long_15s.mp4",
+                "video_results": 46.182906734646195
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_long_10s.mp4",
+                "video_results": 58.417576516812275
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/food/hunyuanvideo_1_5_distilled_food_5_medium_10s.mp4",
+                "video_results": 59.750307059386955
+            }
+        ]
+    ]
+}

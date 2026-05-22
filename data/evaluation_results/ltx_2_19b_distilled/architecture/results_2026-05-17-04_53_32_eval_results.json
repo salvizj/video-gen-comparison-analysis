@@ -1,0 +1,187 @@
+{
+    "imaging_quality": [
+        0.6727054342533951,
+        [
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_long_15s.mp4",
+                "video_results": 73.73699260088215
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_long_5s.mp4",
+                "video_results": 72.47056983128067
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_short_10s.mp4",
+                "video_results": 40.80349668130835
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_medium_10s.mp4",
+                "video_results": 75.1683272682285
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_long_15s.mp4",
+                "video_results": 77.3894675088391
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_medium_15s.mp4",
+                "video_results": 77.27096633699792
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_short_15s.mp4",
+                "video_results": 43.834719068786114
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_short_10s.mp4",
+                "video_results": 72.48159834359197
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_short_5s.mp4",
+                "video_results": 41.85405538889987
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_medium_5s.mp4",
+                "video_results": 71.06682602433133
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_short_15s.mp4",
+                "video_results": 58.446149989838744
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_short_5s.mp4",
+                "video_results": 75.79032336778877
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_long_5s.mp4",
+                "video_results": 75.2023445318553
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_medium_15s.mp4",
+                "video_results": 41.235994296721145
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_long_10s.mp4",
+                "video_results": 60.66653706720756
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_medium_10s.mp4",
+                "video_results": 76.9415555455378
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_long_15s.mp4",
+                "video_results": 67.88202158962261
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_medium_5s.mp4",
+                "video_results": 55.17538729580966
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_long_5s.mp4",
+                "video_results": 75.87001466357019
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_long_15s.mp4",
+                "video_results": 59.51970223508713
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_long_10s.mp4",
+                "video_results": 68.38892783960367
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_4_medium_10s.mp4",
+                "video_results": 48.18561206516883
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_medium_5s.mp4",
+                "video_results": 74.92400615471453
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_long_10s.mp4",
+                "video_results": 78.42455687463531
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_short_15s.mp4",
+                "video_results": 77.28370412895224
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_long_5s.mp4",
+                "video_results": 78.52445321831821
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_short_10s.mp4",
+                "video_results": 78.83893452244675
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_medium_15s.mp4",
+                "video_results": 76.80786796421886
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_long_5s.mp4",
+                "video_results": 67.90886164893789
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_2_short_5s.mp4",
+                "video_results": 79.12996339403894
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_long_10s.mp4",
+                "video_results": 72.72630213504016
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_long_15s.mp4",
+                "video_results": 74.30865444701134
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_medium_10s.mp4",
+                "video_results": 70.88597679929615
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_medium_5s.mp4",
+                "video_results": 53.33174621960348
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_short_10s.mp4",
+                "video_results": 64.67653754143299
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_medium_15s.mp4",
+                "video_results": 59.21834305316788
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_short_5s.mp4",
+                "video_results": 51.76006764813888
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_short_15s.mp4",
+                "video_results": 48.09702792392213
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_medium_15s.mp4",
+                "video_results": 76.78617239658853
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_short_10s.mp4",
+                "video_results": 63.15536719041246
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_medium_5s.mp4",
+                "video_results": 77.35317438299006
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_3_medium_10s.mp4",
+                "video_results": 69.85089670078388
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_short_15s.mp4",
+                "video_results": 75.65635226770121
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_5_short_5s.mp4",
+                "video_results": 70.01569164685966
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/architecture/ltx_2_19b_distilled_architecture_1_long_10s.mp4",
+                "video_results": 78.12820634010916
+            }
+        ]
+    ]
+}

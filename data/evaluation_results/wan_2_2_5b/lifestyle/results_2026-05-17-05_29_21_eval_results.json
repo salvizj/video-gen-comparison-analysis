@@ -1,0 +1,277 @@
+{
+    "background_consistency": [
+        0.9266998064959491,
+        [
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_medium_5s.mp4",
+                "video_results": 0.846551513671875,
+                "video_sim": 101.586181640625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_long_15s.mp4",
+                "video_results": 0.9709615071614583,
+                "video_sim": 349.546142578125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_long_5s.mp4",
+                "video_results": 0.9489501953125,
+                "video_sim": 113.8740234375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_medium_15s.mp4",
+                "video_results": 0.9400770399305556,
+                "video_sim": 338.427734375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_medium_10s.mp4",
+                "video_results": 0.9460174560546875,
+                "video_sim": 227.044189453125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_medium_5s.mp4",
+                "video_results": 0.9063985188802083,
+                "video_sim": 108.767822265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_short_10s.mp4",
+                "video_results": 0.9358113606770834,
+                "video_sim": 224.5947265625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_short_15s.mp4",
+                "video_results": 0.9270155164930556,
+                "video_sim": 333.7255859375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_medium_15s.mp4",
+                "video_results": 0.8558831108940972,
+                "video_sim": 308.117919921875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_short_5s.mp4",
+                "video_results": 0.9467631022135417,
+                "video_sim": 113.611572265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_long_10s.mp4",
+                "video_results": 0.9057851155598958,
+                "video_sim": 217.388427734375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_short_5s.mp4",
+                "video_results": 0.8616861979166667,
+                "video_sim": 103.40234375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_long_15s.mp4",
+                "video_results": 0.9237236870659722,
+                "video_sim": 332.54052734375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_long_5s.mp4",
+                "video_results": 0.9184427897135417,
+                "video_sim": 110.213134765625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_medium_15s.mp4",
+                "video_results": 0.9613559299045139,
+                "video_sim": 346.088134765625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_medium_10s.mp4",
+                "video_results": 0.92293701171875,
+                "video_sim": 221.5048828125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_short_10s.mp4",
+                "video_results": 0.9680816650390625,
+                "video_sim": 232.339599609375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_medium_5s.mp4",
+                "video_results": 0.9520792643229167,
+                "video_sim": 114.24951171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_medium_10s.mp4",
+                "video_results": 0.8627288818359375,
+                "video_sim": 207.054931640625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_medium_5s.mp4",
+                "video_results": 0.9241231282552084,
+                "video_sim": 110.894775390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_short_15s.mp4",
+                "video_results": 0.9728766547309028,
+                "video_sim": 350.235595703125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_2_short_5s.mp4",
+                "video_results": 0.9539571126302083,
+                "video_sim": 114.474853515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_long_10s.mp4",
+                "video_results": 0.9566304524739583,
+                "video_sim": 229.59130859375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_long_5s.mp4",
+                "video_results": 0.874188232421875,
+                "video_sim": 104.902587890625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_long_15s.mp4",
+                "video_results": 0.9283555772569444,
+                "video_sim": 334.2080078125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_long_5s.mp4",
+                "video_results": 0.9681070963541667,
+                "video_sim": 116.1728515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_medium_10s.mp4",
+                "video_results": 0.9075632731119792,
+                "video_sim": 217.815185546875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_medium_15s.mp4",
+                "video_results": 0.920001220703125,
+                "video_sim": 331.200439453125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_short_10s.mp4",
+                "video_results": 0.9461222330729167,
+                "video_sim": 227.0693359375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_medium_5s.mp4",
+                "video_results": 0.9697285970052083,
+                "video_sim": 116.367431640625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_short_15s.mp4",
+                "video_results": 0.9354824490017362,
+                "video_sim": 336.773681640625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_1_long_10s.mp4",
+                "video_results": 0.939617919921875,
+                "video_sim": 225.50830078125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_3_short_5s.mp4",
+                "video_results": 0.9627888997395834,
+                "video_sim": 115.53466796875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_short_15s.mp4",
+                "video_results": 0.9129659016927083,
+                "video_sim": 328.667724609375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_long_15s.mp4",
+                "video_results": 0.9464328342013889,
+                "video_sim": 340.7158203125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_long_10s.mp4",
+                "video_results": 0.9003448486328125,
+                "video_sim": 216.082763671875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_long_15s.mp4",
+                "video_results": 0.9218594021267361,
+                "video_sim": 331.869384765625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_long_5s.mp4",
+                "video_results": 0.9671101888020833,
+                "video_sim": 116.05322265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_medium_10s.mp4",
+                "video_results": 0.9477569580078125,
+                "video_sim": 227.461669921875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_4_short_10s.mp4",
+                "video_results": 0.8725779215494792,
+                "video_sim": 209.418701171875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_long_10s.mp4",
+                "video_results": 0.8472422281901042,
+                "video_sim": 203.338134765625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_short_10s.mp4",
+                "video_results": 0.9156260172526042,
+                "video_sim": 219.750244140625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_short_15s.mp4",
+                "video_results": 0.9382493760850694,
+                "video_sim": 337.769775390625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_short_5s.mp4",
+                "video_results": 0.895623779296875,
+                "video_sim": 107.474853515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/lifestyle/wan_2_2_5b_lifestyle_5_medium_15s.mp4",
+                "video_results": 0.93035888671875,
+                "video_sim": 334.92919921875,
+                "cnt_per_video": 360
+            }
+        ]
+    ]
+}

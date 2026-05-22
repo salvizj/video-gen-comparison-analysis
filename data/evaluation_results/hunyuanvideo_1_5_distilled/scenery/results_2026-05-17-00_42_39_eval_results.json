@@ -1,0 +1,277 @@
+{
+    "background_consistency": [
+        0.9667116066261574,
+        [
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_medium_5s.mp4",
+                "video_results": 0.9787760416666667,
+                "video_sim": 117.453125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_long_10s.mp4",
+                "video_results": 0.9814646402994792,
+                "video_sim": 235.551513671875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_short_10s.mp4",
+                "video_results": 0.9589324951171875,
+                "video_sim": 230.143798828125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_long_5s.mp4",
+                "video_results": 0.977996826171875,
+                "video_sim": 117.359619140625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_short_15s.mp4",
+                "video_results": 0.9644219292534723,
+                "video_sim": 347.19189453125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_medium_15s.mp4",
+                "video_results": 0.9769972059461806,
+                "video_sim": 351.718994140625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_long_10s.mp4",
+                "video_results": 0.9447896321614583,
+                "video_sim": 226.74951171875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_medium_10s.mp4",
+                "video_results": 0.9709910074869792,
+                "video_sim": 233.037841796875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_long_5s.mp4",
+                "video_results": 0.9919108072916667,
+                "video_sim": 119.029296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_medium_5s.mp4",
+                "video_results": 0.9791219075520833,
+                "video_sim": 117.49462890625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_long_5s.mp4",
+                "video_results": 0.9487080891927083,
+                "video_sim": 113.844970703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_short_10s.mp4",
+                "video_results": 0.9717641194661458,
+                "video_sim": 233.223388671875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_short_5s.mp4",
+                "video_results": 0.961639404296875,
+                "video_sim": 115.396728515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_short_5s.mp4",
+                "video_results": 0.9695963541666667,
+                "video_sim": 116.3515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_medium_15s.mp4",
+                "video_results": 0.9781982421875,
+                "video_sim": 352.1513671875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_short_15s.mp4",
+                "video_results": 0.982135009765625,
+                "video_sim": 353.568603515625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_long_10s.mp4",
+                "video_results": 0.9525299072265625,
+                "video_sim": 228.607177734375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_long_15s.mp4",
+                "video_results": 0.971539306640625,
+                "video_sim": 349.754150390625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_long_15s.mp4",
+                "video_results": 0.9885403103298611,
+                "video_sim": 355.87451171875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_long_10s.mp4",
+                "video_results": 0.9763417561848958,
+                "video_sim": 234.322021484375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_medium_10s.mp4",
+                "video_results": 0.9625244140625,
+                "video_sim": 231.005859375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_long_5s.mp4",
+                "video_results": 0.9688802083333333,
+                "video_sim": 116.265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_medium_15s.mp4",
+                "video_results": 0.9700907389322917,
+                "video_sim": 349.232666015625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_medium_5s.mp4",
+                "video_results": 0.9897074381510417,
+                "video_sim": 118.764892578125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_long_15s.mp4",
+                "video_results": 0.977337646484375,
+                "video_sim": 351.841552734375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_short_10s.mp4",
+                "video_results": 0.9265543619791666,
+                "video_sim": 222.373046875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_medium_5s.mp4",
+                "video_results": 0.948858642578125,
+                "video_sim": 113.863037109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_short_5s.mp4",
+                "video_results": 0.9681193033854166,
+                "video_sim": 116.17431640625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_short_10s.mp4",
+                "video_results": 0.9569925944010417,
+                "video_sim": 229.67822265625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_short_15s.mp4",
+                "video_results": 0.9720133463541667,
+                "video_sim": 349.9248046875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_short_15s.mp4",
+                "video_results": 0.9608418782552083,
+                "video_sim": 345.903076171875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_4_medium_10s.mp4",
+                "video_results": 0.9868072509765625,
+                "video_sim": 236.833740234375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_long_10s.mp4",
+                "video_results": 0.9747151692708333,
+                "video_sim": 233.931640625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_medium_10s.mp4",
+                "video_results": 0.9782368977864583,
+                "video_sim": 234.77685546875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_short_15s.mp4",
+                "video_results": 0.9514411078559027,
+                "video_sim": 342.518798828125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_2_medium_15s.mp4",
+                "video_results": 0.9749844021267361,
+                "video_sim": 350.994384765625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_5_short_5s.mp4",
+                "video_results": 0.923077392578125,
+                "video_sim": 110.769287109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_long_15s.mp4",
+                "video_results": 0.9647087944878472,
+                "video_sim": 347.295166015625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_medium_10s.mp4",
+                "video_results": 0.9563191731770834,
+                "video_sim": 229.5166015625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_medium_5s.mp4",
+                "video_results": 0.924639892578125,
+                "video_sim": 110.956787109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_long_5s.mp4",
+                "video_results": 0.951690673828125,
+                "video_sim": 114.202880859375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_1_long_15s.mp4",
+                "video_results": 0.9752970377604167,
+                "video_sim": 351.10693359375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_short_5s.mp4",
+                "video_results": 0.954766845703125,
+                "video_sim": 114.572021484375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_medium_15s.mp4",
+                "video_results": 0.9467793782552083,
+                "video_sim": 340.840576171875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/scenery/hunyuanvideo_1_5_distilled_scenery_3_short_10s.mp4",
+                "video_results": 0.951324462890625,
+                "video_sim": 228.31787109375,
+                "cnt_per_video": 240
+            }
+        ]
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "imaging_quality": [
+        0.5165603302994032,
+        [
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_long_5s.mp4",
+                "video_results": 53.490525994419066
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_long_10s.mp4",
+                "video_results": 63.27147337410955
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_long_15s.mp4",
+                "video_results": 50.984775300171236
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_long_5s.mp4",
+                "video_results": 74.65909488142029
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_medium_15s.mp4",
+                "video_results": 51.7605139502528
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_medium_10s.mp4",
+                "video_results": 64.02661870426162
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_medium_5s.mp4",
+                "video_results": 77.7760478248281
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_medium_15s.mp4",
+                "video_results": 40.87724835720749
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_medium_5s.mp4",
+                "video_results": 71.95769270589528
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_short_10s.mp4",
+                "video_results": 42.36307152079349
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_short_15s.mp4",
+                "video_results": 29.15957985558338
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_1_short_5s.mp4",
+                "video_results": 73.36095207781831
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_long_10s.mp4",
+                "video_results": 72.49413337549234
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_long_15s.mp4",
+                "video_results": 67.27526663148832
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_long_5s.mp4",
+                "video_results": 80.48128585184901
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_short_10s.mp4",
+                "video_results": 52.50783364703546
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_medium_10s.mp4",
+                "video_results": 68.2938582392649
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_short_10s.mp4",
+                "video_results": 36.99651847142896
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_long_10s.mp4",
+                "video_results": 51.34416149661749
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_medium_5s.mp4",
+                "video_results": 80.2068266435103
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_medium_15s.mp4",
+                "video_results": 73.17153932777468
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_short_10s.mp4",
+                "video_results": 76.13835356146468
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_short_5s.mp4",
+                "video_results": 78.63136348251469
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_long_15s.mp4",
+                "video_results": 33.919759776783785
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_2_short_15s.mp4",
+                "video_results": 60.37238168055991
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_long_10s.mp4",
+                "video_results": 34.199924286965015
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_medium_5s.mp4",
+                "video_results": 38.25694719424918
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_short_15s.mp4",
+                "video_results": 35.96820000730393
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_medium_10s.mp4",
+                "video_results": 49.273350529650926
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_long_5s.mp4",
+                "video_results": 27.267334205059967
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_short_5s.mp4",
+                "video_results": 67.43154781120867
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_medium_15s.mp4",
+                "video_results": 25.522178829541826
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_medium_5s.mp4",
+                "video_results": 42.340670814198894
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_short_5s.mp4",
+                "video_results": 45.281859626454754
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_short_5s.mp4",
+                "video_results": 27.952218473450213
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_medium_10s.mp4",
+                "video_results": 41.637700171886145
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_short_15s.mp4",
+                "video_results": 22.615059443127745
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_3_short_10s.mp4",
+                "video_results": 35.57342771474751
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_long_10s.mp4",
+                "video_results": 52.460113351275815
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_long_15s.mp4",
+                "video_results": 38.939969097148015
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_short_15s.mp4",
+                "video_results": 27.39965948173544
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_5_long_15s.mp4",
+                "video_results": 63.370778250231965
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_medium_10s.mp4",
+                "video_results": 28.738232466195136
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_long_5s.mp4",
+                "video_results": 58.85898564866752
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/architecture/wan_2_2_5b_architecture_4_medium_15s.mp4",
+                "video_results": 35.9124522116706
+            }
+        ]
+    ]
+}

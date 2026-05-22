@@ -1,0 +1,187 @@
+{
+    "subject_consistency": [
+        0.9663915906473994,
+        [
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_short_15s.mp4",
+                "video_results": 0.9938187869058714
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_long_10s.mp4",
+                "video_results": 0.9569156253089507
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_short_5s.mp4",
+                "video_results": 0.9980206673343976
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_long_15s.mp4",
+                "video_results": 0.9472707841959265
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_long_15s.mp4",
+                "video_results": 0.986251070515977
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_long_5s.mp4",
+                "video_results": 0.9180954940617084
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_short_15s.mp4",
+                "video_results": 0.9590153151916133
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_medium_10s.mp4",
+                "video_results": 0.9397231629739206
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_short_10s.mp4",
+                "video_results": 0.9635073026021321
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_medium_15s.mp4",
+                "video_results": 0.9136462959150473
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_long_10s.mp4",
+                "video_results": 0.9715133645882209
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_medium_5s.mp4",
+                "video_results": 0.8998970456421376
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_long_5s.mp4",
+                "video_results": 0.9635968034466108
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_short_10s.mp4",
+                "video_results": 0.9444488496830066
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_medium_10s.mp4",
+                "video_results": 0.9724288426339627
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_short_15s.mp4",
+                "video_results": 0.9673122661809127
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_medium_5s.mp4",
+                "video_results": 0.9534259517987569
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_1_short_5s.mp4",
+                "video_results": 0.836156294370691
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_medium_15s.mp4",
+                "video_results": 0.9797037398649586
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_long_10s.mp4",
+                "video_results": 0.9385441571474076
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_short_15s.mp4",
+                "video_results": 0.9737143979304367
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_long_15s.mp4",
+                "video_results": 0.9666415182252724
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_short_10s.mp4",
+                "video_results": 0.9606926082322995
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_long_5s.mp4",
+                "video_results": 0.9459630553921063
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_short_5s.mp4",
+                "video_results": 0.9754919889072577
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_medium_10s.mp4",
+                "video_results": 0.9655223327378432
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_medium_15s.mp4",
+                "video_results": 0.9946707187427415
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_medium_15s.mp4",
+                "video_results": 0.9463598666919603
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_5_short_5s.mp4",
+                "video_results": 0.9732366623977821
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_medium_5s.mp4",
+                "video_results": 0.9794866681098938
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_short_10s.mp4",
+                "video_results": 0.9853309599061807
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_short_15s.mp4",
+                "video_results": 0.9650172878470685
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_2_short_5s.mp4",
+                "video_results": 0.9858156425257524
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_long_10s.mp4",
+                "video_results": 0.9514657597988844
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_long_15s.mp4",
+                "video_results": 0.9837797997726334
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_long_5s.mp4",
+                "video_results": 0.9814080220957597
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_medium_10s.mp4",
+                "video_results": 0.9951257975151141
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_medium_10s.mp4",
+                "video_results": 0.959546435624361
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_medium_5s.mp4",
+                "video_results": 0.9796503310402235
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_medium_15s.mp4",
+                "video_results": 0.9819409281015397
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_3_medium_5s.mp4",
+                "video_results": 0.969599652538697
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_long_10s.mp4",
+                "video_results": 0.9928912567595641
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_long_15s.mp4",
+                "video_results": 0.9924775621957249
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_long_5s.mp4",
+                "video_results": 0.9790512800216675
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/architecture/hunyuanvideo_1_5_distilled_architecture_4_short_10s.mp4",
+                "video_results": 0.9930868363628785
+            }
+        ]
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "imaging_quality": [
+        0.48196773050515446,
+        [
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_long_10s.mp4",
+                "video_results": 31.331732366094947
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_long_5s.mp4",
+                "video_results": 75.4673151063525
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_medium_15s.mp4",
+                "video_results": 31.22203531555852
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_long_15s.mp4",
+                "video_results": 49.97891316717681
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_medium_10s.mp4",
+                "video_results": 26.795624554899224
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_medium_10s.mp4",
+                "video_results": 46.687658302022214
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_medium_5s.mp4",
+                "video_results": 33.69106442475122
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_medium_15s.mp4",
+                "video_results": 68.44287622932582
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_short_10s.mp4",
+                "video_results": 25.909457179025992
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_medium_5s.mp4",
+                "video_results": 54.99645696592725
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_short_5s.mp4",
+                "video_results": 35.835358627571544
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_short_10s.mp4",
+                "video_results": 40.439619863676334
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_short_15s.mp4",
+                "video_results": 28.047919027693055
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_short_5s.mp4",
+                "video_results": 40.68859018373095
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_long_5s.mp4",
+                "video_results": 65.75946372796682
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_long_10s.mp4",
+                "video_results": 50.40871239499927
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_long_10s.mp4",
+                "video_results": 71.64499895404484
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_short_15s.mp4",
+                "video_results": 29.630717581328923
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_long_15s.mp4",
+                "video_results": 71.8790031285167
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_long_5s.mp4",
+                "video_results": 37.59051009249096
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_medium_15s.mp4",
+                "video_results": 50.389055178106
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_long_15s.mp4",
+                "video_results": 26.10890226284883
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_medium_5s.mp4",
+                "video_results": 53.15154321528664
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_medium_10s.mp4",
+                "video_results": 45.69520811025532
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_short_10s.mp4",
+                "video_results": 48.0378269971159
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_medium_15s.mp4",
+                "video_results": 37.47420233306462
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_medium_10s.mp4",
+                "video_results": 62.33171765339325
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_short_15s.mp4",
+                "video_results": 48.023340769421694
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_short_15s.mp4",
+                "video_results": 32.00988418177555
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_medium_5s.mp4",
+                "video_results": 50.88745085661076
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_5_short_5s.mp4",
+                "video_results": 32.88317904196495
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_short_10s.mp4",
+                "video_results": 31.986682132071973
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_2_short_5s.mp4",
+                "video_results": 34.04156060652299
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_long_10s.mp4",
+                "video_results": 72.28896436255997
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_long_15s.mp4",
+                "video_results": 64.55689614631463
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_1_long_10s.mp4",
+                "video_results": 62.5191704366217
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_short_15s.mp4",
+                "video_results": 63.44736976306524
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_long_5s.mp4",
+                "video_results": 69.68221970235021
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_medium_10s.mp4",
+                "video_results": 60.64034048056701
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_medium_15s.mp4",
+                "video_results": 61.25557166651676
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_short_10s.mp4",
+                "video_results": 47.542094519524156
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_medium_5s.mp4",
+                "video_results": 73.54712601338537
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_3_short_5s.mp4",
+                "video_results": 53.243385724784915
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_long_15s.mp4",
+                "video_results": 29.88752278991023
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/lifestyle/hunyuanvideo_1_5_distilled_lifestyle_4_long_5s.mp4",
+                "video_results": 40.77554513600247
+            }
+        ]
+    ]
+}

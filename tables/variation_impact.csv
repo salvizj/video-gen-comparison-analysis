@@ -1,0 +1,10 @@
+model,variation,subject_consistency,background_consistency,motion_smoothness,dynamic_degree,aesthetic_quality,imaging_quality,clip_score
+hunyuanvideo_1_5_distilled,short,0.9595,0.9505,0.9932,0.45,0.4936,0.4677,0.2538
+hunyuanvideo_1_5_distilled,medium,0.9512,0.9545,0.9936,0.4167,0.502,0.492,0.264
+hunyuanvideo_1_5_distilled,long,0.9441,0.9494,0.9932,0.4167,0.5131,0.498,0.2587
+ltx_2_19b_distilled,short,0.9443,0.9552,0.992,0.4,0.6049,0.6567,0.2743
+ltx_2_19b_distilled,medium,0.9243,0.949,0.9915,0.525,0.6013,0.6439,0.2726
+ltx_2_19b_distilled,long,0.9041,0.9366,0.9907,0.6333,0.5881,0.6545,0.2668
+wan_2_2_5b,short,0.927,0.9429,0.9926,0.2083,0.5191,0.506,0.2743
+wan_2_2_5b,medium,0.9309,0.9421,0.9925,0.1833,0.545,0.5349,0.2869
+wan_2_2_5b,long,0.925,0.9389,0.9928,0.1667,0.5417,0.5571,0.2816

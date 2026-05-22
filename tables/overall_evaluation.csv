@@ -1,0 +1,4 @@
+model,subject_consistency,background_consistency,motion_smoothness,dynamic_degree,aesthetic_quality,imaging_quality,clip_score
+hunyuanvideo_1_5_distilled,0.9516,0.9514,0.9933,0.4278,0.5029,0.4859,0.2588
+ltx_2_19b_distilled,0.9242,0.9469,0.9914,0.5194,0.5981,0.6517,0.2712
+wan_2_2_5b,0.9276,0.9413,0.9926,0.1861,0.5353,0.5327,0.2809

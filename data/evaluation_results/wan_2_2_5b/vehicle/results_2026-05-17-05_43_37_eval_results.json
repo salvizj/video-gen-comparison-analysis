@@ -1,0 +1,187 @@
+{
+    "motion_smoothness": [
+        0.9858295141434719,
+        [
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_medium_15s.mp4",
+                "video_results": 0.9972637675618681
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_long_15s.mp4",
+                "video_results": 0.9977777046942501
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_medium_5s.mp4",
+                "video_results": 0.9935141394531904
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_long_5s.mp4",
+                "video_results": 0.9946953008255475
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_medium_10s.mp4",
+                "video_results": 0.9967890364234191
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_medium_15s.mp4",
+                "video_results": 0.9978611730293524
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_medium_5s.mp4",
+                "video_results": 0.9906880598827404
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_short_10s.mp4",
+                "video_results": 0.9967706298759933
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_short_15s.mp4",
+                "video_results": 0.997635266208068
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_short_5s.mp4",
+                "video_results": 0.9827773321846546
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_long_10s.mp4",
+                "video_results": 0.9952658107820006
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_long_15s.mp4",
+                "video_results": 0.997397553387526
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_long_5s.mp4",
+                "video_results": 0.9923897733104994
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_medium_10s.mp4",
+                "video_results": 0.9963742182753844
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_medium_5s.mp4",
+                "video_results": 0.9956803484704068
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_medium_15s.mp4",
+                "video_results": 0.9975956126752695
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_short_15s.mp4",
+                "video_results": 0.9978700527779815
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_short_10s.mp4",
+                "video_results": 0.9980720145969936
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_2_short_5s.mp4",
+                "video_results": 0.9937071168444674
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_long_10s.mp4",
+                "video_results": 0.9719711532733418
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_short_10s.mp4",
+                "video_results": 0.9894734314827471
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_short_15s.mp4",
+                "video_results": 0.9960234558481661
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_long_5s.mp4",
+                "video_results": 0.9276847839440708
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_long_15s.mp4",
+                "video_results": 0.953894305416626
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_medium_10s.mp4",
+                "video_results": 0.9460736008495946
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_medium_5s.mp4",
+                "video_results": 0.9443560801858137
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_medium_15s.mp4",
+                "video_results": 0.9892193810568951
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_short_5s.mp4",
+                "video_results": 0.9750079451195988
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_short_10s.mp4",
+                "video_results": 0.9724344588323889
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_medium_15s.mp4",
+                "video_results": 0.9723256791840074
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_short_15s.mp4",
+                "video_results": 0.9684802428075189
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_3_short_5s.mp4",
+                "video_results": 0.9805115092644964
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_long_10s.mp4",
+                "video_results": 0.9954168232898127
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_long_15s.mp4",
+                "video_results": 0.9962574562109833
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_long_5s.mp4",
+                "video_results": 0.9887813059173545
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_medium_10s.mp4",
+                "video_results": 0.9500480503555144
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_4_medium_5s.mp4",
+                "video_results": 0.9695479738169306
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_long_10s.mp4",
+                "video_results": 0.9955818612339656
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_long_15s.mp4",
+                "video_results": 0.9970256083662691
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_short_15s.mp4",
+                "video_results": 0.9974295779019852
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_long_5s.mp4",
+                "video_results": 0.9910551030341357
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_short_10s.mp4",
+                "video_results": 0.9965249601432008
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_short_5s.mp4",
+                "video_results": 0.995999871362808
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_5_medium_10s.mp4",
+                "video_results": 0.9970244522772383
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/vehicle/wan_2_2_5b_vehicle_1_long_10s.mp4",
+                "video_results": 0.9940541540211616
+            }
+        ]
+    ]
+}

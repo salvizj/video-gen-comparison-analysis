@@ -1,0 +1,277 @@
+{
+    "background_consistency": [
+        0.929232494212963,
+        [
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_long_10s.mp4",
+                "video_results": 0.880621337890625,
+                "video_sim": 211.34912109375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_long_15s.mp4",
+                "video_results": 0.8924350314670139,
+                "video_sim": 321.276611328125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_long_15s.mp4",
+                "video_results": 0.8684034559461805,
+                "video_sim": 312.625244140625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_medium_10s.mp4",
+                "video_results": 0.9094401041666667,
+                "video_sim": 218.265625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_medium_5s.mp4",
+                "video_results": 0.9104248046875,
+                "video_sim": 109.2509765625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_short_15s.mp4",
+                "video_results": 0.8670145670572916,
+                "video_sim": 312.125244140625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_medium_5s.mp4",
+                "video_results": 0.9618367513020833,
+                "video_sim": 115.42041015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_medium_15s.mp4",
+                "video_results": 0.9318603515625,
+                "video_sim": 335.4697265625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_short_5s.mp4",
+                "video_results": 0.9196370442708334,
+                "video_sim": 110.3564453125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_short_10s.mp4",
+                "video_results": 0.8644602457682292,
+                "video_sim": 207.470458984375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_short_10s.mp4",
+                "video_results": 0.8911661783854167,
+                "video_sim": 213.8798828125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_medium_15s.mp4",
+                "video_results": 0.9700290256076389,
+                "video_sim": 349.21044921875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_long_10s.mp4",
+                "video_results": 0.9349894205729167,
+                "video_sim": 224.3974609375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_short_5s.mp4",
+                "video_results": 0.905767822265625,
+                "video_sim": 108.692138671875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_long_15s.mp4",
+                "video_results": 0.9519239637586806,
+                "video_sim": 342.692626953125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_long_5s.mp4",
+                "video_results": 0.9569091796875,
+                "video_sim": 114.8291015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_long_10s.mp4",
+                "video_results": 0.9582997639973958,
+                "video_sim": 229.991943359375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_short_15s.mp4",
+                "video_results": 0.8915445963541667,
+                "video_sim": 320.9560546875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_short_10s.mp4",
+                "video_results": 0.9614542643229167,
+                "video_sim": 230.7490234375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_medium_10s.mp4",
+                "video_results": 0.964959716796875,
+                "video_sim": 231.59033203125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_long_15s.mp4",
+                "video_results": 0.9526787651909723,
+                "video_sim": 342.96435546875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_medium_15s.mp4",
+                "video_results": 0.9606126573350694,
+                "video_sim": 345.820556640625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_short_15s.mp4",
+                "video_results": 0.9692884657118056,
+                "video_sim": 348.94384765625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_short_10s.mp4",
+                "video_results": 0.9393717447916666,
+                "video_sim": 225.44921875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_short_5s.mp4",
+                "video_results": 0.9801127115885416,
+                "video_sim": 117.613525390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_short_15s.mp4",
+                "video_results": 0.9125454372829861,
+                "video_sim": 328.516357421875,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_short_5s.mp4",
+                "video_results": 0.9509765625,
+                "video_sim": 114.1171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_long_15s.mp4",
+                "video_results": 0.8977274576822917,
+                "video_sim": 323.181884765625,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_long_10s.mp4",
+                "video_results": 0.948992919921875,
+                "video_sim": 227.75830078125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_long_5s.mp4",
+                "video_results": 0.9681477864583333,
+                "video_sim": 116.177734375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_2_medium_5s.mp4",
+                "video_results": 0.979315185546875,
+                "video_sim": 117.517822265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_medium_15s.mp4",
+                "video_results": 0.96026611328125,
+                "video_sim": 345.69580078125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_medium_5s.mp4",
+                "video_results": 0.9620381673177083,
+                "video_sim": 115.444580078125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_medium_10s.mp4",
+                "video_results": 0.9501424153645833,
+                "video_sim": 228.0341796875,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_short_10s.mp4",
+                "video_results": 0.9450948079427083,
+                "video_sim": 226.82275390625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_1_long_5s.mp4",
+                "video_results": 0.9169576009114583,
+                "video_sim": 110.034912109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_short_15s.mp4",
+                "video_results": 0.9149970160590277,
+                "video_sim": 329.39892578125,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_long_10s.mp4",
+                "video_results": 0.8865142822265625,
+                "video_sim": 212.763427734375,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_3_short_5s.mp4",
+                "video_results": 0.9645406087239583,
+                "video_sim": 115.744873046875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_long_5s.mp4",
+                "video_results": 0.9144144694010417,
+                "video_sim": 109.729736328125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_medium_10s.mp4",
+                "video_results": 0.917523193359375,
+                "video_sim": 220.20556640625,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_4_medium_15s.mp4",
+                "video_results": 0.9086310492621528,
+                "video_sim": 327.107177734375,
+                "cnt_per_video": 360
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_long_5s.mp4",
+                "video_results": 0.9741841634114583,
+                "video_sim": 116.902099609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_medium_10s.mp4",
+                "video_results": 0.9687703450520834,
+                "video_sim": 232.5048828125,
+                "cnt_per_video": 240
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/food/ltx_2_19b_distilled_food_5_medium_5s.mp4",
+                "video_results": 0.972186279296875,
+                "video_sim": 116.662353515625,
+                "cnt_per_video": 120
+            }
+        ]
+    ]
+}

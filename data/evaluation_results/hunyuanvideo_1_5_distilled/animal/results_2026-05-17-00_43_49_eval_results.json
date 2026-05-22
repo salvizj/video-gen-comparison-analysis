@@ -1,0 +1,187 @@
+{
+    "motion_smoothness": [
+        0.9950007637829742,
+        [
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_long_10s.mp4",
+                "video_results": 0.9941110185065167
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_long_10s.mp4",
+                "video_results": 0.9975027901668815
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_short_5s.mp4",
+                "video_results": 0.9901758674991097
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_long_15s.mp4",
+                "video_results": 0.997991284821146
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_long_5s.mp4",
+                "video_results": 0.9972138316731607
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_long_15s.mp4",
+                "video_results": 0.9917474826097936
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_medium_10s.mp4",
+                "video_results": 0.99778448933326
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_long_5s.mp4",
+                "video_results": 0.9929217697662666
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_medium_15s.mp4",
+                "video_results": 0.9976806327124125
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_medium_10s.mp4",
+                "video_results": 0.992671211138257
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_medium_5s.mp4",
+                "video_results": 0.9975342781565973
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_short_15s.mp4",
+                "video_results": 0.9832880210551843
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_short_10s.mp4",
+                "video_results": 0.9977960868653463
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_short_10s.mp4",
+                "video_results": 0.9821325424600931
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_short_15s.mp4",
+                "video_results": 0.9978426110316811
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_short_5s.mp4",
+                "video_results": 0.9858409276738206
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_1_short_5s.mp4",
+                "video_results": 0.9977890455338564
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_long_10s.mp4",
+                "video_results": 0.9972367922935956
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_long_10s.mp4",
+                "video_results": 0.9973909177887234
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_long_15s.mp4",
+                "video_results": 0.9976814494512936
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_long_15s.mp4",
+                "video_results": 0.9974025860949051
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_long_5s.mp4",
+                "video_results": 0.9959056788792351
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_long_5s.mp4",
+                "video_results": 0.996939853602365
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_medium_10s.mp4",
+                "video_results": 0.9973092584027691
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_medium_10s.mp4",
+                "video_results": 0.9972554451774255
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_medium_15s.mp4",
+                "video_results": 0.9975016653188311
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_medium_15s.mp4",
+                "video_results": 0.9975029592191369
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_medium_5s.mp4",
+                "video_results": 0.9973081559580296
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_medium_5s.mp4",
+                "video_results": 0.9968210581374645
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_short_10s.mp4",
+                "video_results": 0.9973149441339259
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_short_10s.mp4",
+                "video_results": 0.9973585337847746
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_short_15s.mp4",
+                "video_results": 0.9978219944940226
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_short_15s.mp4",
+                "video_results": 0.9977916173139186
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_2_short_5s.mp4",
+                "video_results": 0.9971226707830568
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_5_short_5s.mp4",
+                "video_results": 0.9969543481443949
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_long_10s.mp4",
+                "video_results": 0.9957597019610461
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_long_15s.mp4",
+                "video_results": 0.9959752665630295
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_long_5s.mp4",
+                "video_results": 0.9964661582715352
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_medium_10s.mp4",
+                "video_results": 0.9944154611430577
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_medium_15s.mp4",
+                "video_results": 0.9948194729395645
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_medium_5s.mp4",
+                "video_results": 0.994472326855867
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_short_10s.mp4",
+                "video_results": 0.9913258607835718
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_3_short_15s.mp4",
+                "video_results": 0.9892854048685594
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_medium_15s.mp4",
+                "video_results": 0.9941973742410515
+            },
+            {
+                "video_path": "/workspace/videos/hunyuanvideo_1_5_distilled/animal/hunyuanvideo_1_5_distilled_animal_4_medium_5s.mp4",
+                "video_results": 0.9856735226253073
+            }
+        ]
+    ]
+}

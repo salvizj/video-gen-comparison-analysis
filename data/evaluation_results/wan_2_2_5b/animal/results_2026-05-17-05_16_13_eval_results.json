@@ -1,0 +1,187 @@
+{
+    "subject_consistency": [
+        0.9397384440264216,
+        [
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_short_15s.mp4",
+                "video_results": 0.959585957063569
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_long_15s.mp4",
+                "video_results": 0.9657736477752527
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_long_10s.mp4",
+                "video_results": 0.9647044189274311
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_medium_5s.mp4",
+                "video_results": 0.9571134313941002
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_short_5s.mp4",
+                "video_results": 0.9258477449417114
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_medium_10s.mp4",
+                "video_results": 0.9487213292469581
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_long_15s.mp4",
+                "video_results": 0.9503005819188224
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_short_15s.mp4",
+                "video_results": 0.9054642703798083
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_long_5s.mp4",
+                "video_results": 0.9252861199279626
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_short_5s.mp4",
+                "video_results": 0.9851823464035988
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_short_10s.mp4",
+                "video_results": 0.9607115859786669
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_long_10s.mp4",
+                "video_results": 0.9629948659489552
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_long_15s.mp4",
+                "video_results": 0.9430874266558223
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_medium_5s.mp4",
+                "video_results": 0.9394316621124744
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_medium_15s.mp4",
+                "video_results": 0.9798287096950743
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_long_10s.mp4",
+                "video_results": 0.9700746101637682
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_long_5s.mp4",
+                "video_results": 0.7894189131756624
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_long_5s.mp4",
+                "video_results": 0.9608378157019615
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_1_short_10s.mp4",
+                "video_results": 0.9636065158993006
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_medium_10s.mp4",
+                "video_results": 0.9591297856221597
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_short_10s.mp4",
+                "video_results": 0.9545231260359287
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_short_15s.mp4",
+                "video_results": 0.9557451277143425
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_short_5s.mp4",
+                "video_results": 0.9805001981556416
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_medium_15s.mp4",
+                "video_results": 0.9054230596456263
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_2_medium_5s.mp4",
+                "video_results": 0.8236028008162976
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_long_10s.mp4",
+                "video_results": 0.9616440061479807
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_medium_15s.mp4",
+                "video_results": 0.9443908565574222
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_medium_5s.mp4",
+                "video_results": 0.8859927286704381
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_long_15s.mp4",
+                "video_results": 0.926166445761919
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_long_5s.mp4",
+                "video_results": 0.8498493641614914
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_short_15s.mp4",
+                "video_results": 0.9101969041758113
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_long_10s.mp4",
+                "video_results": 0.8856601944814125
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_long_15s.mp4",
+                "video_results": 0.9483913575609525
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_long_5s.mp4",
+                "video_results": 0.9056161860624949
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_medium_10s.mp4",
+                "video_results": 0.9627865472187599
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_medium_15s.mp4",
+                "video_results": 0.9517669561836455
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_medium_10s.mp4",
+                "video_results": 0.9639438066631556
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_short_10s.mp4",
+                "video_results": 0.9462694726884365
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_short_10s.mp4",
+                "video_results": 0.9441298605253299
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_4_medium_5s.mp4",
+                "video_results": 0.9377106862763563
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_3_short_5s.mp4",
+                "video_results": 0.9452292119463285
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_medium_15s.mp4",
+                "video_results": 0.9095356600979964
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_short_15s.mp4",
+                "video_results": 0.9617767201529609
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_medium_10s.mp4",
+                "video_results": 0.8974529103686412
+            },
+            {
+                "video_path": "/workspace/videos/wan_2_2_5b/animal/wan_2_2_5b_animal_5_short_5s.mp4",
+                "video_results": 0.9198336367805798
+            }
+        ]
+    ]
+}

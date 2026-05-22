@@ -1,0 +1,407 @@
+[
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_short_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_short_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_medium_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_medium_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_medium_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_medium_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_long_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_long_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_long_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_long_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_long_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_long_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_short_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_short_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_long_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_long_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_medium_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_medium_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_medium_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_medium_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_short_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_short_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_short_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_short_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_short_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_short_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_short_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_short_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_short_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_short_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_medium_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_medium_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_short_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_short_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_long_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_long_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_long_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_long_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_long_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_long_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_short_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_short_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_medium_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_medium_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_medium_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_medium_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_medium_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_medium_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_medium_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_medium_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_short_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_short_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_short_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_short_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_2_short_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_2_short_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_long_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_long_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_long_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_long_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_long_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_long_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_medium_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_medium_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_medium_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_medium_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_medium_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_medium_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_1_long_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_1_long_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_medium_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_medium_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_short_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_short_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_short_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_short_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_3_short_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_3_short_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_long_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_long_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_long_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_long_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_long_5s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_long_5s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_medium_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_medium_10s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_4_medium_15s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_4_medium_15s.mp4"
+        ]
+    },
+    {
+        "prompt_en": "wan_2_2_5b_scenery_5_long_10s",
+        "dimension": [
+            "subject_consistency"
+        ],
+        "video_list": [
+            "/workspace/videos/wan_2_2_5b/scenery/wan_2_2_5b_scenery_5_long_10s.mp4"
+        ]
+    }
+]

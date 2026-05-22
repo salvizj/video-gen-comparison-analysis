@@ -1,0 +1,187 @@
+{
+    "aesthetic_quality": [
+        0.6517298102378846,
+        [
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_long_15s.mp4",
+                "video_results": 0.6135345101356506
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_medium_5s.mp4",
+                "video_results": 0.6058194041252136
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_long_5s.mp4",
+                "video_results": 0.6007867455482483
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_long_15s.mp4",
+                "video_results": 0.5879366993904114
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_short_5s.mp4",
+                "video_results": 0.6388964056968689
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_medium_10s.mp4",
+                "video_results": 0.5699253082275391
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_medium_15s.mp4",
+                "video_results": 0.6344165802001953
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_medium_15s.mp4",
+                "video_results": 0.6063148379325867
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_short_10s.mp4",
+                "video_results": 0.6309325098991394
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_short_10s.mp4",
+                "video_results": 0.7187724113464355
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_long_10s.mp4",
+                "video_results": 0.6913706064224243
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_medium_5s.mp4",
+                "video_results": 0.6252411603927612
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_long_5s.mp4",
+                "video_results": 0.7176626920700073
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_short_5s.mp4",
+                "video_results": 0.6951289176940918
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_long_15s.mp4",
+                "video_results": 0.677711546421051
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_long_10s.mp4",
+                "video_results": 0.6142041683197021
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_medium_15s.mp4",
+                "video_results": 0.7470285892486572
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_medium_10s.mp4",
+                "video_results": 0.633456826210022
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_medium_10s.mp4",
+                "video_results": 0.7604493498802185
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_long_15s.mp4",
+                "video_results": 0.671477198600769
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_medium_5s.mp4",
+                "video_results": 0.7627395391464233
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_medium_5s.mp4",
+                "video_results": 0.6784693002700806
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_short_10s.mp4",
+                "video_results": 0.7228165864944458
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_long_5s.mp4",
+                "video_results": 0.6486049890518188
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_long_5s.mp4",
+                "video_results": 0.6035410761833191
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_short_15s.mp4",
+                "video_results": 0.610108494758606
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_short_10s.mp4",
+                "video_results": 0.6288129687309265
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_medium_15s.mp4",
+                "video_results": 0.6725426912307739
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_short_15s.mp4",
+                "video_results": 0.743611752986908
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_short_15s.mp4",
+                "video_results": 0.6209600567817688
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_5_short_5s.mp4",
+                "video_results": 0.7261112928390503
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_short_15s.mp4",
+                "video_results": 0.6754230260848999
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_long_15s.mp4",
+                "video_results": 0.6297311186790466
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_2_short_5s.mp4",
+                "video_results": 0.5067856907844543
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_long_10s.mp4",
+                "video_results": 0.5302977561950684
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_1_long_10s.mp4",
+                "video_results": 0.5480319857597351
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_medium_10s.mp4",
+                "video_results": 0.5930667519569397
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_long_5s.mp4",
+                "video_results": 0.6716607213020325
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_short_10s.mp4",
+                "video_results": 0.6484810709953308
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_medium_15s.mp4",
+                "video_results": 0.6815613508224487
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_medium_5s.mp4",
+                "video_results": 0.699615478515625
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_medium_10s.mp4",
+                "video_results": 0.7408607006072998
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_short_15s.mp4",
+                "video_results": 0.6942369341850281
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_4_long_10s.mp4",
+                "video_results": 0.5528073906898499
+            },
+            {
+                "video_path": "/workspace/videos/ltx_2_19b_distilled/scenery/ltx_2_19b_distilled_scenery_3_short_5s.mp4",
+                "video_results": 0.6958962678909302
+            }
+        ]
+    ]
+}
