@@ -13,12 +13,10 @@ from base import (
     TABLES_DIR,
     MODEL_DISPLAY,
     DIMENSION_DISPLAY,
-    MODEL_COLORS,
 )
 
 
 def prepare_category_impact_stats(df):
-    """Aprēķina vidējās vērtības katrai (modelis, kategorija) kombinācijai."""
     subset = df[df["model"].isin(EXPECTED_MODELS)].copy()
     if "imaging_quality" in subset.columns and subset["imaging_quality"].max() > 1.5:
         subset["imaging_quality"] = subset["imaging_quality"] / 100
@@ -35,89 +33,79 @@ def prepare_category_impact_stats(df):
     return means, models_sorted, categories_sorted
 
 
-def _plot_metric_group_by_category(
+def _plot_heatmap(
     means,
     models_sorted,
     categories_sorted,
     metrics,
     suptitle,
     filename,
-    nrows,
-    ncols,
-    figsize,
+    nrows=1,
+    ncols=None,
 ):
-    fig, axes = plt.subplots(nrows, ncols, figsize=figsize)
+    n_metrics = len(metrics)
+    if ncols is None:
+        ncols = n_metrics
 
-    if nrows * ncols == 1:
+    n_cats = len(categories_sorted)
+    cell_width = 1.2
+    cell_height = 0.9
+
+    fig_w = ncols * (n_cats * cell_width + 1.5)
+    fig_h = nrows * (len(models_sorted) * cell_height + 1.8)
+
+    fig, axes = plt.subplots(nrows, ncols, figsize=(fig_w, fig_h))
+
+    if n_metrics == 1:
         axes = [axes]
     else:
-        axes = axes.flatten()  # type: ignore
+        axes = np.array(axes).flatten()
 
-    handles_for_legend = []
-    labels_for_legend = []
-
-    n_models = len(models_sorted)
-    bar_width = 0.8 / n_models
-    x = np.arange(len(categories_sorted))
     x_labels = [CATEGORY_DISPLAY.get(c, c) for c in categories_sorted]
+    y_labels = [MODEL_DISPLAY.get(m, m) for m in models_sorted]
 
     for i, metric in enumerate(metrics):
         ax = axes[i]
 
-        for j, model in enumerate(models_sorted):
-            color = MODEL_COLORS.get(model, "gray")
-            label = MODEL_DISPLAY.get(model, model)
+        data = np.array(
+            [
+                [
+                    means[(means["model"] == m) & (means["category"] == c)][
+                        metric
+                    ].values[0]
+                    for c in categories_sorted
+                ]
+                for m in models_sorted
+            ]
+        )
 
-            model_data = means[means["model"] == model].set_index("category")
-            values = [model_data.loc[c, metric] for c in categories_sorted]
+        im = ax.imshow(data, aspect="auto", cmap="RdYlGn")
+        plt.colorbar(im, ax=ax, shrink=0.8)
 
-            offset = (j - (n_models - 1) / 2) * bar_width
-            bars = ax.bar(
-                x + offset,
-                values,
-                bar_width,
-                color=color,
-                label=label,
-                edgecolor="black",
-                linewidth=0.5,
-            )
+        ax.set_xticks(range(len(categories_sorted)))
+        ax.set_xticklabels(x_labels, rotation=35, ha="right", fontsize=8)
+        ax.set_yticks(range(len(models_sorted)))
+        ax.set_yticklabels(y_labels, fontsize=9)
+        ax.set_title(DIMENSION_DISPLAY.get(metric, metric), fontsize=11)
 
-            if i == 0:
-                handles_for_legend.append(bars[0])
-                labels_for_legend.append(label)
-
-        ax.set_title(DIMENSION_DISPLAY.get(metric, metric), fontsize=11)  # type: ignore
-        ax.set_ylabel("Vidējais rādītājs", fontsize=9)
-        ax.set_xticks(x)
-        ax.set_xticklabels(x_labels, rotation=30, ha="right", fontsize=8)  # type: ignore
-        ax.grid(True, alpha=0.3, axis="y")
-        ax.spines[["top", "right"]].set_visible(False)
-
-        values_all = means[metric].values
-        vmin, vmax = values_all.min(), values_all.max()
-        spread = vmax - vmin
-        if spread < 1e-6:
-            pad = max(vmax * 0.05, 0.01)
-            ax.set_ylim(vmax - pad, vmax + pad)
-        else:
-            pad_low = spread * 0.15
-            pad_high = spread * 0.15
-            ax.set_ylim(max(0.0, vmin - pad_low), min(1.0, vmax + pad_high))
-
-    for j in range(len(metrics), len(axes)):
-        axes[j].axis("off")
-
-    fig.legend(
-        handles_for_legend,
-        labels_for_legend,
-        loc="upper center",
-        bbox_to_anchor=(0.5, -0.02),
-        ncol=len(models_sorted),
-        fontsize=10,
-        title="Modelis",
-        title_fontsize=11,
-        frameon=True,
-    )
+        for row in range(len(models_sorted)):
+            for col in range(len(categories_sorted)):
+                val = data[row, col]
+                text_color = (
+                    "black"
+                    if 0.3 < (val - data.min()) / (data.max() - data.min() + 1e-9) < 0.7
+                    else "white"
+                )
+                ax.text(
+                    col,
+                    row,
+                    f"{val:.3f}",
+                    ha="center",
+                    va="center",
+                    fontsize=7.5,
+                    color=text_color,
+                    fontweight="bold",
+                )
 
     plt.suptitle(suptitle, fontsize=14, y=1.02)
     plt.tight_layout()
@@ -125,65 +113,47 @@ def _plot_metric_group_by_category(
     FIGURES_DIR.mkdir(parents=True, exist_ok=True)
     plt.savefig(FIGURES_DIR / filename, dpi=300, bbox_inches="tight")
     plt.close()
-
-
-def plot_category_temporal_consistency(means, models_sorted, categories_sorted):
-    _plot_metric_group_by_category(
-        means=means,
-        models_sorted=models_sorted,
-        categories_sorted=categories_sorted,
-        metrics=TEMPORAL_DIMENSIONS,
-        suptitle="Kategoriju ietekme uz temporālo konsekvenci",
-        filename="category_temporal_consistency.png",
-        nrows=2,
-        ncols=2,
-        figsize=(14, 9),
-    )
-
-
-def plot_category_visual_quality(means, models_sorted, categories_sorted):
-    _plot_metric_group_by_category(
-        means=means,
-        models_sorted=models_sorted,
-        categories_sorted=categories_sorted,
-        metrics=VISUAL_QUALITY_DIMENSIONS,
-        suptitle="Kategoriju ietekme uz vizuālo kvalitāti",
-        filename="category_visual_quality.png",
-        nrows=1,
-        ncols=2,
-        figsize=(14, 5),
-    )
-
-
-def plot_category_semantic_alignment(means, models_sorted, categories_sorted):
-    _plot_metric_group_by_category(
-        means=means,
-        models_sorted=models_sorted,
-        categories_sorted=categories_sorted,
-        metrics=SEMANTIC_DIMENSIONS,
-        suptitle="Kategoriju ietekme uz semantisko atbilstību",
-        filename="category_semantic_alignment.png",
-        nrows=1,
-        ncols=1,
-        figsize=(9, 5),
-    )
+    print(f"Saved: {filename}")
 
 
 def main():
     setup_plot_style()
-
     df = build_combined_evaluation_results()
 
     if df is None or df.empty:
-        print("Error: No data available to plot.")
+        print("Error: No data available.")
         return
 
     means, models_sorted, categories_sorted = prepare_category_impact_stats(df)
-    plot_category_temporal_consistency(means, models_sorted, categories_sorted)
-    plot_category_visual_quality(means, models_sorted, categories_sorted)
-    plot_category_semantic_alignment(means, models_sorted, categories_sorted)
 
-    print("Category impact plots generated successfully in the figures directory.")
+    _plot_heatmap(
+        means,
+        models_sorted,
+        categories_sorted,
+        metrics=TEMPORAL_DIMENSIONS,
+        suptitle="Kategoriju ietekme uz temporālo konsekvenci",
+        filename="category_temporal_consistency_heatmap.png",
+        nrows=2,
+        ncols=2,
+    )
+
+    _plot_heatmap(
+        means,
+        models_sorted,
+        categories_sorted,
+        metrics=VISUAL_QUALITY_DIMENSIONS,
+        suptitle="Kategoriju ietekme uz vizuālo kvalitāti",
+        filename="category_visual_quality_heatmap.png",
+    )
+
+    _plot_heatmap(
+        means,
+        models_sorted,
+        categories_sorted,
+        metrics=SEMANTIC_DIMENSIONS,
+        suptitle="Kategoriju ietekme uz semantisko atbilstību",
+        filename="category_semantic_alignment_heatmap.png",
+    )
 
 
 if __name__ == "__main__":

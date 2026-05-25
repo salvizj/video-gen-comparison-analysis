@@ -250,7 +250,7 @@ def load_and_prepare_data():
     df = build_combined_evaluation_results()
 
     if df is None or df.empty:
-        raise ValueError("Nav datu, ko apstrādāt")
+        raise ValueError("No data to work with")
 
     df = df[df["model"].isin(EXPECTED_MODELS)].copy()
 

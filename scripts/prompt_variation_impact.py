@@ -96,7 +96,7 @@ def _plot_metric_group_by_variation(
                 labels_for_legend.append(label)
 
         ax.set_title(DIMENSION_DISPLAY.get(metric, metric), fontsize=11)  # type: ignore
-        ax.set_xlabel("Ievadnes sarežģītība", fontsize=9)
+        ax.set_xlabel("Ievadnes garums", fontsize=9)
         ax.set_ylabel("Vidējais rādītājs", fontsize=9)
         ax.grid(True, alpha=0.3)
         ax.spines[["top", "right"]].set_visible(False)
@@ -140,7 +140,7 @@ def plot_variation_temporal_consistency(means, models_sorted):
         means=means,
         models_sorted=models_sorted,
         metrics=TEMPORAL_DIMENSIONS,
-        suptitle="Ievadnes sarežģītības ietekme uz temporālo konsekvenci",
+        suptitle="Ievadnes garuma ietekme uz temporālo konsekvenci",
         filename="variation_temporal_consistency.png",
         nrows=2,
         ncols=2,
@@ -153,7 +153,7 @@ def plot_variation_visual_quality(means, models_sorted):
         means=means,
         models_sorted=models_sorted,
         metrics=VISUAL_QUALITY_DIMENSIONS,
-        suptitle="Ievadnes sarežģītības ietekme uz vizuālo kvalitāti",
+        suptitle="Ievadnes garuma ietekme uz vizuālo kvalitāti",
         filename="variation_visual_quality.png",
         nrows=1,
         ncols=2,
@@ -166,7 +166,7 @@ def plot_variation_semantic_alignment(means, models_sorted):
         means=means,
         models_sorted=models_sorted,
         metrics=SEMANTIC_DIMENSIONS,
-        suptitle="Ievadnes sarežģītības ietekme uz semantisko atbilstību",
+        suptitle="Ievadnes garuma ietekme uz semantisko atbilstību",
         filename="variation_semantic_alignment.png",
         nrows=1,
         ncols=1,
